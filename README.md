@@ -280,5 +280,3 @@ streamlit run app.py
 
 
 ---
-
-**Note**: This application is optimized for learning and experimentation. For production RL applications, consider using specialized libraries like Stable Baselines3, Ray RLlib, or TensorFlow Agents.
